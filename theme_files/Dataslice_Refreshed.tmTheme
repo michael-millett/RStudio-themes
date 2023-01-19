@@ -41,7 +41,7 @@
 				<key>foreground</key>
 				<string>#D5D6D9</string>
 				<key>invisibles</key>
-				<string>#383A4D</string>
+				<string>#43455C</string>
 				<key>lineHighlight</key>
 				<string>#D6D5D4</string>
 				<key>selection</key>
@@ -100,7 +100,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F7E99E</string>
+				<string>#F2E599</string>
 			</dict>
 		</dict>
 		<dict>
